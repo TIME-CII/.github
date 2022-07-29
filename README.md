@@ -1,2 +1,0 @@
-# .github
-org's README
