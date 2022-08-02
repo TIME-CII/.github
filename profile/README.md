@@ -28,7 +28,7 @@ This repo contains code that is a part of the [TIME collaboration](https://ui.ad
 ## Contacts
 
  - `TIME-rx`: Abby Crites, Sukhman Singh
- - `TIME-DAQ`: Victoria Butler
+ - `TIME-DAQ`: Victoria Butler, Ben Vaughan
  - `TIME-kms`: Victoria Butler, Evan Mayer
  - `TIME-sims`: Dang Pham
  - `TIME-analysis`: Ryan Keenan
