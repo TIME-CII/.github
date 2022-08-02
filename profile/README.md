@@ -19,15 +19,17 @@ This repo contains code that is a part of the [TIME collaboration](https://ui.ad
 
 **Dos and don'ts:**
 
-1. Don't `git push` large files (~Megabytes). Don't `git push` data files (e.g. plots, `netCDF`). Use `.gitignore`.
-2. Create branches when writing new code.
-3. Create issues to keep track of what you and others are working on.
-4. Documentation is (very) good.
-5. Communication is (very) good.
+- Don't `git push` large files (~Megabytes). Don't `git push` data files (e.g. plots, `netCDF`). Use `.gitignore`.
+- Create branches when writing new code.
+- Create issues to keep track of what you and others are working on.
+- Documentation is (very) good.
+- Communication is (very) good.
 
 ## Contacts
-`TIME-rx`: Abby Crites, Sukhman Singh
-`TIME-DAQ`: Victoria Butler
-`TIME-kms`: Victoria Butler, Evan Mayer
-`TIME-sims`: Dang Pham
-`TIME-analysis`: Ryan Keenan
+
+ - `TIME-rx`: Abby Crites, Sukhman Singh
+ - `TIME-DAQ`: Victoria Butler
+ - `TIME-kms`: Victoria Butler, Evan Mayer
+ - `TIME-sims`: Dang Pham
+ - `TIME-analysis`: Ryan Keenan
+
