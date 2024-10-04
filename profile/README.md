@@ -9,6 +9,7 @@ This repo contains code that is a part of the [TIME collaboration](https://ui.ad
 3. `TIME-kms`:  K-mirror codes.
 4. `TIME-sims`: Simulations for TIME (astrophysical sources simulation and telescope simulation).
 5. `TIME-analysis`: Analysis pipeline, mapmaking.
+6. `TIME-pyhk`: Fridge scripts. 
 
 ## Instructions
 1. Choose the repository that your code fits in most. If nothing fits, let the collaboration knows!
@@ -32,4 +33,4 @@ This repo contains code that is a part of the [TIME collaboration](https://ui.ad
  - `TIME-kms`: Victoria Butler, Evan Mayer
  - `TIME-sims`: Dang Pham
  - `TIME-analysis`: Ryan Keenan
-
+ - `TIME-pyhk`: Kenny Lau, Dongwoo Chung, Victoria Butler 
